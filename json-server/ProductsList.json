@@ -1,0 +1,175 @@
+{
+  "rams": [
+    {
+      "id": "RAM-D4-001",
+      "name": "Corsair Vengeance LPX 16GB DDR4 3200MHz",
+      "brand": "Corsair",
+      "type": "DDR4",
+      "capacity": "16GB",
+      "speed": "3200MHz",
+      "formFactor": "PC",
+      "price": "1.800.000",
+      "imageUrl": [
+        "../IMG/Corsair_Vengeance_LPX_16GB_DDR4_3200MHz_1.jpg",
+        "../IMG/Corsair_Vengeance_LPX_16GB_DDR4_3200MHz_2.jpg",
+        "../IMG/Corsair_Vengeance_LPX_16GB_DDR4_3200MHz_3.jpg"
+      ],
+      "title": "Giới thiệu Corsair Vengeance LPX 16GB DDR4 3200MHz",
+      "description": "Corsair Vengeance LPX 16GB DDR4 3200MHz là bộ nhớ RAM DDR4 dành cho máy tính PC, kết hợp dung lượng 16GB và tốc độ 3200MHz để đáp ứng nhu cầu học tập, làm việc, chơi game và đa nhiệm. Sản phẩm thuộc dòng Vengeance LPX của Corsair, hướng đến thiết kế gọn gàng và khả năng lắp đặt thuận tiện trong nhiều cấu hình PC sử dụng nền tảng DDR4. Với dung lượng 16GB, RAM cung cấp không gian bộ nhớ phù hợp cho các tác vụ phổ biến và nhiều ứng dụng chạy đồng thời, trong khi tốc độ 3200MHz giúp hệ thống có băng thông bộ nhớ tốt cho nhu cầu sử dụng hằng ngày.",
+      "description2": "Vengeance LPX 16GB DDR4 3200MHz là lựa chọn phù hợp cho những bộ PC cần dung lượng RAM 16GB ổn định mà vẫn ưu tiên thiết kế gọn gàng. Sản phẩm có thể đáp ứng tốt nhu cầu gaming, học tập, làm việc và đa nhiệm hằng ngày, đồng thời thiết kế Low Profile giúp việc lắp đặt thuận tiện trong nhiều không gian thùng máy.",
+      "video": "https://youtu.be/ea5XMgy7ado?si=7sveRvmI9hpZJpGr"
+    },
+    {
+      "id": "RAM-D4-002",
+      "name": "Kingston Fury Beast RGB 8GB DDR4 3200MHz",
+      "brand": "Kingston",
+      "type": "DDR4",
+      "capacity": "8GB",
+      "speed": "3200MHz",
+      "formFactor": "PC",
+      "price": "1.900.000",
+      "imageUrl": [
+        "../IMG/Kingston_Fury_Beast_RGB_8GB_DDR4_3200MHz_1.jpg",
+        "../IMG/Kingston_Fury_Beast_RGB_8GB_DDR4_3200MHz_2.jpg",
+        "../IMG/Kingston_Fury_Beast_RGB_8GB_DDR4_3200MHz_3.jpg"
+      ],
+      "title": "Giới thiệu Kingston Fury Beast RGB 8GB DDR4 3200MHz",
+      "description": "Kingston Fury Beast RGB 8GB DDR4 3200MHz là RAM DDR4 dành cho PC, sở hữu dung lượng 8GB và tốc độ 3200MHz, phù hợp với các cấu hình phổ thông cần nâng cấp bộ nhớ. Sản phẩm nổi bật với thiết kế Fury Beast kết hợp hệ thống đèn RGB, mang lại điểm nhấn cho những bộ máy có kính cường lực hoặc hệ thống chiếu sáng đồng bộ. Dung lượng 8GB đáp ứng tốt các tác vụ văn phòng, học tập, duyệt web và nhu cầu chơi game ở mức phù hợp, đồng thời chuẩn DDR4 và tốc độ 3200MHz giúp RAM tương thích với nhiều nền tảng PC hỗ trợ DDR4.",
+      "description2": "Kingston Fury Beast RGB 8GB DDR4 3200MHz hướng đến người dùng muốn nâng cấp RAM với dung lượng vừa phải và thiết kế RGB nổi bật. Tốc độ 3200MHz giúp hệ thống phản hồi nhanh trong các tác vụ phổ biến, trong khi kiểu dáng gaming phù hợp với những bộ PC chú trọng cả hiệu năng lẫn tính thẩm mỹ.",
+      "video": "https://youtu.be/VwjycveUexc?si=DeuGa4wzYuMVWzGI"
+    },
+    {
+      "id": "RAM-D4-003",
+      "name": "G.Skill Trident Z RGB 32GB (2x16GB) DDR4 3600MHz",
+      "brand": "G.Skill",
+      "type": "DDR4",
+      "capacity": "32GB",
+      "speed": "3600MHz",
+      "formFactor": "PC",
+      "price": "5.500.000",
+      "imageUrl": [
+        "../IMG/G.Skill_Trident_Z_RGB_32GB_(2x16GB)_DDR4_3600MHz_1.jpg",
+        "../IMG/G.Skill_Trident_Z_RGB_32GB_(2x16GB)_DDR4_3600MHz_2.jpg",
+        "../IMG/G.Skill_Trident_Z_RGB_32GB_(2x16GB)_DDR4_3600MHz_3.jpg"
+      ],
+      "title": "Giới thiệu G.Skill Trident Z RGB 32GB (2x16GB) DDR4 3600MHz",
+      "description": "G.Skill Trident Z RGB 32GB (2x16GB) DDR4 3600MHz là bộ RAM DDR4 dành cho PC, gồm hai thanh 16GB với tổng dung lượng 32GB và tốc độ 3600MHz. Sản phẩm hướng đến người dùng cần dung lượng bộ nhớ lớn và băng thông cao hơn cho gaming, đa nhiệm, sáng tạo nội dung và các tác vụ yêu cầu nhiều RAM. Thiết kế Trident Z RGB tạo điểm nhấn cho hệ thống, đồng thời cấu hình 2x16GB phù hợp với các nền tảng hỗ trợ bộ nhớ kênh đôi. Đây là lựa chọn đáng cân nhắc cho những cấu hình DDR4 hiệu năng cao.",
+      "description2": "G.Skill Trident Z RGB 32GB (2x16GB) DDR4 3600MHz cung cấp dung lượng lớn 32GB và cấu hình kit 2 thanh, phù hợp cho các hệ thống cần khả năng đa nhiệm cao. Tốc độ 3600MHz cùng thiết kế RGB đặc trưng giúp sản phẩm phù hợp với PC gaming và các cấu hình hiệu năng cao sử dụng nền tảng DDR4.",
+      "video": "https://youtu.be/__W-w-LPhZw?si=aR2-4UYyKsawF61I"
+    },
+    {
+      "id": "RAM-D4-004",
+      "name": "TeamGroup T-Force Vulcan Z 16GB (2x8GB) DDR4 3200MHz",
+      "brand": "TeamGroup",
+      "type": "DDR4",
+      "capacity": "16GB",
+      "speed": "3200MHz",
+      "formFactor": "PC",
+      "price": "1.600.000",
+      "imageUrl": [
+        "../IMG/TeamGroup_T-Force_Vulcan_Z_16GB_(2x8GB)_DDR4_3200MHz_1.jpg",
+        "../IMG/TeamGroup_T-Force_Vulcan_Z_16GB_(2x8GB)_DDR4_3200MHz_2.jpg",
+        "../IMG/TeamGroup_T-Force_Vulcan_Z_16GB_(2x8GB)_DDR4_3200MHz_3.jpg"
+      ],
+      "title": "Giới thiệu TeamGroup T-Force Vulcan Z 16GB (2x8GB) DDR4 3200MHz",
+      "description": "TeamGroup T-Force Vulcan Z 16GB (2x8GB) DDR4 3200MHz là bộ RAM DDR4 dành cho PC với tổng dung lượng 16GB, được cấu thành từ hai thanh 8GB và hoạt động ở tốc độ 3200MHz. Cấu hình 2x8GB phù hợp với các hệ thống sử dụng bộ nhớ kênh đôi, giúp đáp ứng tốt nhu cầu chơi game, học tập, làm việc và đa nhiệm. Dòng T-Force Vulcan Z hướng đến thiết kế thực dụng, phù hợp với nhiều cấu hình PC DDR4 và là lựa chọn cân bằng giữa dung lượng, tốc độ và khả năng nâng cấp.",
+      "description2": "TeamGroup T-Force Vulcan Z 16GB (2x8GB) DDR4 3200MHz sử dụng cấu hình 2x8GB, phù hợp để khai thác chế độ bộ nhớ kênh đôi trên các nền tảng tương thích. Sản phẩm hướng đến người dùng cần một bộ RAM 16GB cân bằng giữa hiệu năng, dung lượng và chi phí cho gaming cũng như các tác vụ máy tính hằng ngày.",
+      "video": "https://youtu.be/-gJea48W4wU?si=xp5VAzE4BdZafMRY"
+    },
+    {
+      "id": "RAM-D4-005",
+      "name": "ADATA XPG Spectrix D50 RGB 16GB DDR4 3200MHz",
+      "brand": "ADATA",
+      "type": "DDR4",
+      "capacity": "16GB",
+      "speed": "3200MHz",
+      "formFactor": "PC",
+      "price": "1.900.000",
+      "imageUrl": [
+        "../IMG/ADATA_XPG_Spectrix_D50_RGB_16GB_DDR4_3200MHz_1.jpg",
+        "../IMG/ADATA_XPG_Spectrix_D50_RGB_16GB_DDR4_3200MHz_2.jpg",
+        "../IMG/ADATA_XPG_Spectrix_D50_RGB_16GB_DDR4_3200MHz_3.jpg"
+      ],
+      "title": "Giới thiệu ADATA XPG Spectrix D50 RGB 16GB DDR4 3200MHz",
+      "description": "ADATA XPG Spectrix D50 RGB 16GB DDR4 3200MHz là RAM DDR4 dành cho PC, cung cấp dung lượng 16GB và tốc độ 3200MHz, phù hợp cho gaming, đa nhiệm và các tác vụ sử dụng bộ nhớ thường xuyên. Sản phẩm thuộc dòng XPG Spectrix D50 và được trang bị hệ thống RGB, giúp tạo điểm nhấn thẩm mỹ cho bộ máy tính. Với chuẩn DDR4 và tốc độ 3200MHz, RAM phù hợp với các bo mạch chủ hỗ trợ DDR4 và có thể đáp ứng tốt nhu cầu nâng cấp bộ nhớ cho nhiều cấu hình PC hiện nay.",
+      "description2": "ADATA XPG Spectrix D50 RGB 16GB DDR4 3200MHz kết hợp dung lượng 16GB với tốc độ 3200MHz và thiết kế RGB, phù hợp cho những bộ PC gaming có yêu cầu về ngoại hình. Sản phẩm đáp ứng tốt các tác vụ đa nhiệm thông thường và có thể trở thành một phần nổi bật trong hệ thống sử dụng kính cường lực.",
+      "video": "https://youtu.be/4T7tof_IuEs?si=QtkmG-N4Rq4kd3Jp"
+    },
+    {
+      "id": "RAM-D5-001",
+      "name": "Corsair Dominator Platinum RGB 32GB (2x16GB) DDR5 5600MHz",
+      "brand": "Corsair",
+      "type": "DDR5",
+      "capacity": "32GB",
+      "speed": "5600MHz",
+      "formFactor": "PC",
+      "price": "4.500.000",
+      "imageUrl": [
+        "../IMG/Corsair_Dominator_Platinum_RGB_32GB_(2x16GB)_DDR5_5600MHz_1.jpg",
+        "../IMG/Corsair_Dominator_Platinum_RGB_32GB_(2x16GB)_DDR5_5600MHz_2.jpg",
+        "../IMG/Corsair_Dominator_Platinum_RGB_32GB_(2x16GB)_DDR5_5600MHz_3.jpg"
+      ],
+      "title": "Giới thiệu Corsair Dominator Platinum RGB 32GB (2x16GB) DDR5 5600MHz",
+      "description": "Corsair Dominator Platinum RGB 32GB (2x16GB) DDR5 5600MHz là bộ nhớ DDR5 dành cho PC, gồm hai thanh 16GB với tổng dung lượng 32GB và tốc độ 5600MHz. Sản phẩm thuộc dòng Dominator Platinum RGB cao cấp của Corsair, kết hợp dung lượng lớn, chuẩn DDR5 và hệ thống RGB để phục vụ các cấu hình gaming, làm việc chuyên nghiệp, đa nhiệm và các tác vụ yêu cầu nhiều bộ nhớ. Cấu hình 2x16GB phù hợp với hệ thống hỗ trợ DDR5 và cung cấp nền tảng bộ nhớ có băng thông cao cho các PC thế hệ mới.",
+      "description2": "Corsair Dominator Platinum RGB 32GB (2x16GB) DDR5 5600MHz là bộ RAM DDR5 dung lượng 32GB dành cho các cấu hình hiện đại cần khả năng xử lý đa nhiệm và băng thông bộ nhớ cao. Thiết kế cao cấp cùng hệ thống RGB giúp sản phẩm phù hợp với những bộ PC hiệu năng cao chú trọng cả hiệu suất và thẩm mỹ.",
+      "video": "https://youtu.be/NC7W6kUP6SY?si=JvUdFTGaoj1YbQY4"
+    },
+    {
+      "id": "RAM-D5-002",
+      "name": "G.Skill Flare X5 32GB (2x16GB) DDR5 6000MHz",
+      "brand": "G.Skill",
+      "type": "DDR5",
+      "capacity": "32GB",
+      "speed": "6000MHz",
+      "formFactor": "PC",
+      "price": "5.000.000",
+      "imageUrl": [
+        "../IMG/G.Skill_Flare_X5_32GB_(2x16GB)_DDR5_6000MHz_1.jpg",
+        "../IMG/G.Skill_Flare_X5_32GB_(2x16GB)_DDR5_6000MHz_2.jpg",
+        "../IMG/G.Skill_Flare_X5_32GB_(2x16GB)_DDR5_6000MHz_3.jpg"
+      ],
+      "title": "Giới thiệu G.Skill Flare X5 32GB (2x16GB) DDR5 6000MHz",
+      "description": "G.Skill Flare X5 32GB (2x16GB) DDR5 6000MHz là bộ RAM DDR5 dành cho PC, gồm hai thanh 16GB với tổng dung lượng 32GB và tốc độ 6000MHz. Sản phẩm hướng đến các hệ thống DDR5 hiệu năng cao, phù hợp cho gaming, đa nhiệm, sáng tạo nội dung và những tác vụ cần dung lượng bộ nhớ lớn. Với cấu hình 2x16GB, RAM tận dụng thiết lập hai kênh trên các nền tảng tương thích, trong khi tốc độ 6000MHz cung cấp băng thông cao cho hệ thống. Đây là lựa chọn phù hợp khi xây dựng hoặc nâng cấp PC sử dụng nền tảng DDR5.",
+      "description2": "G.Skill Flare X5 32GB (2x16GB) DDR5 6000MHz cung cấp dung lượng 32GB với tốc độ 6000MHz, phù hợp cho các hệ thống DDR5 hiệu năng cao. Cấu hình 2x16GB đáp ứng tốt nhu cầu gaming, đa nhiệm và các ứng dụng yêu cầu nhiều bộ nhớ, đồng thời thiết kế hướng đến sự gọn gàng trong không gian bên trong PC.",
+      "video": "https://youtu.be/deA0uaBv3ms?si=opXFkju-iqLnMyGV"
+    },
+    {
+      "id": "RAM-D5-003",
+      "name": "Kingston Fury Beast DDR5 16GB 5200MHz",
+      "brand": "Kingston",
+      "type": "DDR5",
+      "capacity": "16GB",
+      "speed": "5200MHz",
+      "formFactor": "PC",
+      "price": "2.500.000",
+      "imageUrl": [
+        "../IMG/Kingston_Fury_Beast_DDR5_16GB_5200MHz_1.jpg",
+        "../IMG/Kingston_Fury_Beast_DDR5_16GB_5200MHz_2.jpg",
+        "../IMG/Kingston_Fury_Beast_DDR5_16GB_5200MHz_3.jpg"
+      ],
+      "title": "Giới thiệu Kingston Fury Beast DDR5 16GB 5200MHz",
+      "description": "Kingston Fury Beast DDR5 16GB 5200MHz là RAM DDR5 dành cho PC, cung cấp dung lượng 16GB và tốc độ 5200MHz. Sản phẩm phù hợp với người dùng muốn nâng cấp lên nền tảng DDR5 để phục vụ học tập, làm việc, gaming và đa nhiệm. Dung lượng 16GB đáp ứng tốt nhiều nhu cầu sử dụng phổ biến, trong khi tốc độ 5200MHz mang lại băng thông bộ nhớ phù hợp cho các hệ thống DDR5. Thiết kế thuộc dòng Fury Beast của Kingston, hướng đến sự cân bằng giữa hiệu năng, khả năng sử dụng và tính linh hoạt khi nâng cấp PC.",
+      "description2": "Kingston Fury Beast DDR5 16GB 5200MHz là lựa chọn phù hợp để nâng cấp các hệ thống sử dụng nền tảng DDR5 với dung lượng 16GB. Tốc độ 5200MHz mang lại băng thông tốt cho các tác vụ hằng ngày, gaming và đa nhiệm, giúp hệ thống khai thác tốt hơn khả năng của nền tảng bộ nhớ DDR5.",
+      "video": "https://youtu.be/CXt9yVkV_4E?si=DgZXlAYYRScmcEtk"
+    },
+    {
+      "id": "RAM-D5-004",
+      "name": "TeamGroup T-Force Delta RGB 32GB (2x16GB) DDR5 6000MHz",
+      "brand": "TeamGroup",
+      "type": "DDR5",
+      "capacity": "32GB",
+      "speed": "6000Mhz",
+      "formFactor": "PC",
+      "price": "5.000.000",
+      "imageUrl": [
+        "../IMG/TeamGroup_T-Force_Delta_RGB_32GB_(2x16GB)_DDR5_6000MHz_1.jpg",
+        "../IMG/TeamGroup_T-Force_Delta_RGB_32GB_(2x16GB)_DDR5_6000MHz_2.jpg",
+        "../IMG/TeamGroup_T-Force_Delta_RGB_32GB_(2x16GB)_DDR5_6000MHz_3.jpg"
+      ],
+      "title": "Giới thiệu TeamGroup T-Force Delta RGB 32GB (2x16GB) DDR5 6000MHz",
+      "description": "TeamGroup T-Force Delta RGB 32GB (2x16GB) DDR5 6000MHz là bộ RAM DDR5 dành cho PC, gồm hai thanh 16GB với tổng dung lượng 32GB và tốc độ 6000MHz. Sản phẩm kết hợp dung lượng lớn, tốc độ cao và thiết kế RGB đặc trưng của dòng T-Force Delta, phù hợp với các bộ PC gaming hoặc cấu hình hiệu năng cao chú trọng cả hiệu suất lẫn ngoại hình. Cấu hình 2x16GB phù hợp với hệ thống hỗ trợ DDR5 và đáp ứng tốt các tác vụ đa nhiệm, chơi game, sáng tạo nội dung cũng như những ứng dụng cần nhiều bộ nhớ.",
+      "description2": "TeamGroup T-Force Delta RGB 32GB (2x16GB) DDR5 6000MHz hướng đến các bộ PC gaming và hiệu năng cao sử dụng DDR5. Dung lượng 32GB, cấu hình 2x16GB và tốc độ 6000MHz đáp ứng tốt các tác vụ nặng, trong khi thiết kế RGB tạo điểm nhấn cho những hệ thống PC có phong cách gaming hiện đại.",
+      "video": "https://youtu.be/C9yVlHBAQ-k?si=tcl_IfGGtv4D7tWr"
+    }
+  ]
+}
