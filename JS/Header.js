@@ -14,5 +14,5 @@ header.innerHTML = `
 
 const logOut = header.querySelector("button")
 logOut.addEventListener('click', () => {
-    window.location.href = `../HTML/LogIn.html`
+    window.location.href = `../HTML/index.html`
 })
