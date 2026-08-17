@@ -8,8 +8,6 @@ async function renderList() {
 
       const productsContainer = document.querySelector(".products-container")
 
-      productsContainer.innerHTML = ""
-
       productsList.forEach((pro) => {
         let card = document.createElement("section")
         card.classList.add("product-card")
@@ -33,12 +31,22 @@ async function renderList() {
       })
     }
 function addToCart(product, card) {
-         const addtoCart = card.querySelector("button")
+        const addtoCart = card.querySelector("button")
         addtoCart.addEventListener('click', (e) => {
           e.stopPropagation();
-          const productsInCart = JSON.parse(localStorage.getItem("idProducts")) || [];
-          productsInCart.push(product.id)
-          localStorage.setItem("idProducts", JSON.stringify(productsInCart))
+          const quantity = 0 ;
+          const productsInCart = JSON.parse(localStorage.getItem("products")) || [];
+
+          const existingProduct = productsInCart.find((item) => item.id === product.id)
+
+          if (existingProduct){
+            existingProduct.quantity = String(Number(existingProduct.quantity)+1)
+          }
+          else{
+            productsInCart.push({id: product.id, name: product.name, price: product.price,image: product.imageUrl[0], quantity: "1"})
+          }
+          
+          localStorage.setItem("products", JSON.stringify(productsInCart))
      })
 }
 

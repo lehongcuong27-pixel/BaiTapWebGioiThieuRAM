@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+footer{
+    color: white;
+    width: 100%;
+    max-width: 1440px;
+    height: 80px;
+    bottom: 0;
+    background: url("../IMG/backgrd_header_footer.jpg");
+    background-size: 100% auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+}
+footer address{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+footer h3{
+    display: inline-block;
+    font-size: 2rem;
+}
+footer h3+p{
+    display: inline-block;
+    font-size: 1.5rem;
+}

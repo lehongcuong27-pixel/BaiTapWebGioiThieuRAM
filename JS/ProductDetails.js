@@ -20,7 +20,7 @@ async function renderProduct() {
     container.appendChild(content)
     container.innerHTML += `<div>
     <h3>Thêm vào giỏ hàng:</h3>
-    <button><img src="../IMG/cart-icon.png" alt="Thêm vào giỏ hàng"></button>
+    <button name = "add-to-cart-btn"><img src="../IMG/cart-icon.png" alt="Thêm vào giỏ hàng"></button>
     </div>`
     addToCart(product, container)
 }
@@ -76,13 +76,22 @@ function product_description(product, content){
     content.appendChild(video)
     return content
 }
-function addToCart(product, detailPage) {
-         const addtoCart = detailPage.querySelector("button")
+function addToCart(product, card) {
+        const addtoCart = card.querySelector("[name ='add-to-cart-btn']")
         addtoCart.addEventListener('click', (e) => {
           e.stopPropagation();
-          const productsInCart = JSON.parse(localStorage.getItem("idProducts")) || [];
-          productsInCart.push(product.id)
-          localStorage.setItem("idProducts", JSON.stringify(productsInCart))
+          const productsInCart = JSON.parse(localStorage.getItem("products")) || [];
+
+          const existingProduct = productsInCart.find((item) => item.id === product.id)
+
+          if (existingProduct){
+            existingProduct.quantity = String(Number(existingProduct.quantity)+1)
+          }
+          else{
+            productsInCart.push({id: product.id, name: product.name, price: product.price,image: product.imageUrl[0], quantity: "1"})
+          }
+          
+          localStorage.setItem("products", JSON.stringify(productsInCart))
      })
 }
 renderProduct()

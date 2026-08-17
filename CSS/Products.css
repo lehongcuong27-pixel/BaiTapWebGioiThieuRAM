@@ -4,15 +4,16 @@
     box-sizing: border-box;
 }
 .products-container{
-    background-color: rgb(100, 247, 100);
+    background: url("../IMG/MainBackgrd.jpg");
+    background-size: cover;
     padding: 20px;
     max-width: 1440px;
-    min-width: 800px;
     width: 100%;
-    height: auto;
+    height: 100%;
     display: grid;
     grid-template-columns: repeat(4, 1fr);
-    gap: 20px;
+    gap: 70px;
+    position: relative;
 }
 .product-card{
     display: flex;
@@ -24,6 +25,15 @@
     display: block;
     width: 100%;
     background-color: white;
+    border: 1px solid black;
+}
+.product-card:hover{
+    border-color:  rgb(51, 206, 51);
+    transform: scale(1.05);
+    cursor: pointer;
+}
+.product-card:active{
+    border-color: red;
 }
 .product-info{
     flex: 1;
@@ -32,6 +42,7 @@
     display: flex;
     gap: 5px;
     flex-wrap: wrap;
+    border: 1px solid black;
 }
 .product-name{
     font-size: 1.3rem;
@@ -69,9 +80,11 @@
     background-color: transparent;
     height: 100%;
     width: auto;
+    border: none;
 }
 .product-price button:hover{
     background-color: red;
+    cursor: pointer;
 }
 .product-price button:active{
     transform: scale(0.8);

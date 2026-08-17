@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="vi">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Trang Chủ</title>
+        <link rel="stylesheet" href="../CSS/LogIn.css">
+    </head>
+    <body>
+
+        <div class="container">
+            <video  autoplay loop muted playsinline>
+                <source src = "../Video/giphy.mp4"> 
+            </video>
+                <h1>Chào mừng đến với RAM-review</h1>
+            <div class = "change-img">
+                <img name = "firstImg">
+                <img name = "secondImg">
+            </div>
+            <p>Website giới thiệu các loại RAM máy tính</p>
+        <form class ="login-and-register-form" name ="login-form">
+            <button class="close-button" type="button">X</button>
+            <h1>Đăng Nhập</h1>
+            <input type="text" name="username" placeholder="Tên đăng nhập" required>
+            <input type="password" name="password" placeholder="Mật khẩu" required>
+            <button type="submit">Đăng Nhập</button>
+        </form>
+ 
+        <form class="login-and-register-form" name = "register-form">
+            <button class="close-button" type="button">X</button>
+            <h1>Đăng Ký</h1>
+            <input type="text" name="register-username" placeholder="Nhập tên đăng nhập(không bắt đầu bằng số và không chứa kí tự đặc biệt)" required>
+            <input type="email" name="register-email" placeholder="Nhập email(vd: example@gmail.com)" required>
+            <input type="password" name="register-password" placeholder="Nhập mật khẩu(tối thiểu 8 kí tự, có cả chữ in thường, in hoa, số, kí tự đặc biệt)" required>
+            <button type="submit">Đăng Ký</button>
+        </form>
+
+        <div class="Btn">
+            <button type="button" name="register">Đăng Ký</button>
+            <button type="button" name="login">Đăng Nhập</button>
+        </div>
+        </div>
+
+        <script src="../JS/LogIn.js"></script>
+    </body>
+</html>
