@@ -85,7 +85,8 @@ function purchase(container){
 }
 function remove(item, product){
     const btn = item.querySelector(".removeBtn")
-    btn.addEventListener('click', () => {
+    btn.addEventListener('click', (e) => {
+         e.stopPropagation();
         const removedProduct = product.id
 
         const list = JSON.parse(localStorage.getItem("products"))
