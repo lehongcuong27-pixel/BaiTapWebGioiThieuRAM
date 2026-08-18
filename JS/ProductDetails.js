@@ -8,7 +8,7 @@ async function renderProduct() {
     const product = products.find((item) => String(item.id) === String(idProduct))
 
     if (!product) {
-        console.error("Không tìm thấy sản phẩm")
+        alert("Không tìm thấy sản phẩm")
         return window.location.href = "products.html"
     }
 

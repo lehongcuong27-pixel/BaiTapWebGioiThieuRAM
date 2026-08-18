@@ -31,7 +31,8 @@
     font-size: 2rem;
     color: #333;
     background: rgba(255, 255, 255, 0.6);
-    border-radius: 10px;
+    border-radius: 20px;
+    opacity: 0.9;
 }
 .cart-items{
     background-color: rgb(194, 190, 190);

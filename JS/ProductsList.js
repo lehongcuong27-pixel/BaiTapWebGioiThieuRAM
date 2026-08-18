@@ -1,13 +1,12 @@
-
-
 let productsList = []
-
+const productsContainer = document.querySelector(".products-container")
 async function renderList() {
+  try{
       const list = await fetch("http://localhost:3000/rams")
       productsList = await list.json()
-
-      const productsContainer = document.querySelector(".products-container")
-
+  }catch(error){
+    productsContainer.innerHTML = `<p>Lỗi khi lấy dữ liệu</p>`
+  }
       productsList.forEach((pro) => {
         let card = document.createElement("section")
         card.classList.add("product-card")
